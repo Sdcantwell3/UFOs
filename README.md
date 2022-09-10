@@ -8,7 +8,7 @@ This website can easily be used to research UFO sightings in your area or in aro
   
 ![Filters](https://user-images.githubusercontent.com/104606589/189503155-8418555c-4671-40ea-92b5-3e9870f21dbb.png)
 
-  - As you can see as you change the filter the information off to the right will change as well.
+  - You will note as we change the values in the filter fields the information that is displayed will change as well.s
 ![unfiltered](https://user-images.githubusercontent.com/104606589/189503198-1ea6cb40-c668-4aa6-b69a-ca449a33b0d1.png)
 
    - Now when we enter the date 1/7/2010, you can see that the out put's the righ have changed.
